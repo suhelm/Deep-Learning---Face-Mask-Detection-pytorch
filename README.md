@@ -5,4 +5,9 @@ Project members:  Mohammod Suhel Firdus
                   Shravya Reddy
                   
 # Git Clone
-git clone 
+git clone  https://github.com/suhelm/aai_6721_project.git
+
+# Dataset Repository:
+     <<Unique URL to Dropbox>
+     
+     
