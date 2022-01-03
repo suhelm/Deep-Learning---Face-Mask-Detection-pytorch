@@ -114,21 +114,33 @@ Image : Screenshot of CNN model developed
 6
 Training
 ● Create a folder named PROJECT
+
 ● Download thes folderfrom
+
 https://drive.google.com/drive/u/0/folders/1aodoJXPFfWkXCP3etN3F9gLz1UdyaMSt
+
 ● Copy the below folders to a folder named PROJECT/mask_dataset
+
 ● Copy testing_dataset_DO_NOT_COPY_TO_TRAINING_DATASET to a folder named
 PROJECT/testing_dataset. Alternately, we can place the images which we want to
 test in the folder testing_dataset in the corresponding known category
+
 ● For simplicity of path resolution, we will place the python file in the root folder
 PROJECT
+
 ● Using our choice of IDE, or jupyter notebook, execute in the following order:
+
 ● Run command
+
 AIFaceDetection('mask_dataset',None)
+
 ● This will create a model file named 'mask_dataset.pkl' in root folder PROJECT
 Once the trained model is saved, we can use this for evolution using following command
 AIFaceDetection('mask_dataset',None)
+
+
 Summary of Facts of training
+-------------------------------------------------------
 7
 Image Resized to 32 *32
 No of Epoch 4
