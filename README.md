@@ -2,15 +2,15 @@
 
 Table Of Contents
 -------------------------------------------
-OVERVIEW
-GOALS
-TRAINING DATA PREPARATION
-Creating dataset using MaskTheFace[2] and Flickr datasets[3]
-Medical+mask[4] dataset
-CNN Architecture
-Training
-Evaluation
-References and Inspirations
+<h2>OVERVIEW</h2>
+<br>GOALS
+<br>TRAINING DATA PREPARATION
+<br>Creating dataset using MaskTheFace[2] and Flickr datasets[3]
+<br>Medical+mask[4] dataset
+<br>CNN Architecture
+<br>Training
+<br>Evaluation
+<br>References and Inspirations
 
 
 OVERVIEW
